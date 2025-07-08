@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: white;
+    
+}
+.heading{
+    display:flex;
+    background-color: red;
+    height: 90px; 
+}
+.title{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    height:75px;
+}
+.logo{
+    width: 150px;
+}
+.titlename{
+    margin-top: -10px;
+    background-color: rgb(255, 2, 2);
+
+}
